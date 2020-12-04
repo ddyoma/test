@@ -35,5 +35,7 @@ public class StringTest2 {
 		// length()는 int다.
 		// 정적데이터타입이미지는 정해지면 변하지 않는다.태정태세문단세 = omg인거다.
 
+		
+		
 	}
 }
