@@ -3,6 +3,9 @@ package test04;
 public class Jinsu {
 	public static void main(String[] args) {
 
+
+
+		
 		// 10진수는 한자리에 1~9까지는 들어가는데 10이되면 넘어감.
 		// 9+1 = 10 으로 표기
 		// 8진수 7=1 =10

@@ -21,7 +21,7 @@ public class Condition {
 		int num4 = 200;
 		love = num3 >= num4;
 		System.out.println(love);
-		love = num3 <= num4;
+		love = num3 < num4;
 		System.out.println(love);
 		
 		

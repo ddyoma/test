@@ -13,7 +13,7 @@ public class PrintTest {
 		 *번수는 반드시 데이터 타입을 같이 선언한다.
 		 *변수명은 Camel Case를 따르긴하나 첫글자는 소문자로 하거라. camel Case
 		 */
-	//git : 형상 관리툴
+
 		//문자 저장
 		// 문자 vs 문자열 
 		char c='a';
